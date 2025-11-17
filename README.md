@@ -2,7 +2,7 @@
 
 A CSIT student at Padmakanya Multiple Campus.
 
- I’m currently learning exploring cybersecurity.
+ I’m currently exploring cybersecurity.
 
 ## 💻 My Projects
 - All projects: [GitHub Repositories](https://github.com/sainakarki?tab=repositories)
