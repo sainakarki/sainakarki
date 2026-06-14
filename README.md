@@ -13,6 +13,7 @@ A CSIT student at Padmakanya Multiple Campus.
 - LinkedIn: (https://www.linkedin.com/in/saina-karki-5601b52a9/)
 
 ## 🛠 Languages & Tools
+
 [C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python)
