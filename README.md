@@ -2,7 +2,7 @@
 
 A CSIT student at Padmakanya Multiple Campus.
 
- I’m currently exploring cybersecurity.
+ I’m currently exploring Quality Assurance.
 
 ## 💻 My Projects
 - All projects: [GitHub Repositories](https://github.com/sainakarki?tab=repositories)
